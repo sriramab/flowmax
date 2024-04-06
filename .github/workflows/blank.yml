@@ -26,4 +26,8 @@ jobs:
       - name: 'Get latest release'
         run: |
           echo hello
+      - uses: pozetroninc/github-action-get-latest-release@master
+        with:
+          owner: sriramab
+          repo: wbafrica
         
