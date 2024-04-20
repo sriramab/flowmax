@@ -1,1 +1,1 @@
-# flowmax.
+# flowmax QGIS Plugin
